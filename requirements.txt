@@ -1,0 +1,7 @@
+#pip install -r requirements.txt
+mcp[cli]
+pydantic-ai
+requests
+gtts
+PyPDF2
+streamlit
